@@ -37,7 +37,7 @@ Check out the live website here: [https://deepskyblue-spider-361301.hostingersit
 - **Frontend:** React.js, Tailwind CSS
 - **Build Tool:** Vite
 - **UI Components:** Shadcn UI
-- **Deployment:** Hostinger
+
 
 ## 📂 Project Structure
 ```text
@@ -52,7 +52,7 @@ apps/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/national-auto-parts.git
+   git clone https://github.com/sanalashari03/national-auto-parts.git
    ```
 
 2. **Install dependencies:**
