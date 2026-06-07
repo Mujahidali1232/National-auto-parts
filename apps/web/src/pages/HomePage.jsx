@@ -381,7 +381,7 @@ const HomePage = () => {
                 ref={(el) => (observerRefs.current[4 + index] = el)}
                 className="fade-in group bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-500 border border-gray-100 flex flex-col h-full"
               >
-                <div className="relative h-56 md:h-64 overflow-hidden bg-gray-50 p-6 flex items-center justify-center">
+                <div className="relative h-56 md:h-64 overflow-hidden bg-white p-6 flex items-center justify-center">
                   <img
                     src={product.image}
                     alt={product.name}
