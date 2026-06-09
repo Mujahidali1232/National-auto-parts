@@ -163,8 +163,8 @@ function main() {
 	}
 
 	if (pages.length === 0) {
-		console.error('❌ No pages with Helmet components found!');
-		process.exit(1);
+		console.warn('⚠️ No pages with Helmet components found, skipping llms.txt generation.');
+		return;
 	}
 
 
